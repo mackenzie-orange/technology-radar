@@ -17,7 +17,7 @@ At any point in time, you can:
    - Reach out to peers for feedback and opinions
    - Include a radar steward to approve and merge your change
    
-One week before the candenced release date, the stewards will:
+One week before the cadenced release date, the stewards will:
  - Accumulate any merged changes since the last release
  - Post a pending change list in #technology-radar
  - Discuss blip changes, commit any changes that are not challenged and, subsequently, removed
