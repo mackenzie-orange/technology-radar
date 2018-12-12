@@ -1,6 +1,6 @@
-# technology-radar
+# QuoteCenter Technology Radar
 
-Technology Radar is a listing of technologies and methodologies employed (or on their way to adoption) at QC.  Where they are on that path is represented by a set of concentric rings approaching and peaking with adoption, followed by a path that they take on their way out of adoption.
+Technology Radar is a listing of technologies and methodologies adopted (or on their way to adoption) at QC.  Where they are on that path is represented by a set of concentric rings approaching and peaking with adoption, followed by a path that they take on their way out of adoption.
 
 ## Who manages the Technology Radar?
 
