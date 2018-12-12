@@ -1,5 +1,5 @@
 ---
-  name: SQL Server
+  blip: SQL Server
   ring: adopt
   description: |
     Supported versions: Linux only, 2017+
@@ -8,7 +8,7 @@
     <br/>Deployment patterns: k8s, Ansible, Artisanal
 ...
 ---
-  name: Elasticsearch
+  blip: Elasticsearch
   ring: adopt
   description: |
     Supported Versions: 2.x, 5.x, 6.x (Soon, only 6.x)
@@ -17,7 +17,7 @@
     <br/>Deployment patterns: Artisanal
 ...
 ---
-  name: Cassandra
+  blip: Cassandra
   ring: adopt
   description: |
     Supported Versions: 3.8+
@@ -26,7 +26,7 @@
     <br/>Deployment patterns: Terraform
 ...
 ---
-  name: Redis (ObjectRocket)
+  blip: Redis (ObjectRocket)
   ring: sunset
   description: |
     Supported Versions: N/A, cloud-based
@@ -35,7 +35,7 @@
     <br/>Deployment Patterns: n/a
 ...
 ---
-  name: Redis (GCP Memorystore)
+  blip: Redis (GCP Memorystore)
   ring: trial
   description: |
     Supported Versions: N/A, cloud-based
@@ -44,7 +44,7 @@
     <br/>Deployment Patterns: n/a
 ...
 ---
-  name: GCP Datastore
+  blip: GCP Datastore
   ring: trial
   description: |
     Supported Versions: N/A, cloud-based
@@ -53,7 +53,7 @@
     <br/>Deployment Patterns: n/a
 ...
 ---
-  name: GCP PubSub
+  blip: GCP PubSub
   ring: trial
   description: |
     Supported Versions: N/A, cloud-based
@@ -62,7 +62,7 @@
     <br/>Deployment Patterns: n/a
 ...
 ---
-  name: Kafka (Confluent Cloud)
+  blip: Kafka (Confluent Cloud)
   ring: trial
   description: |
     Supported Versions: 1.0+, Confluent Cloud
@@ -71,24 +71,22 @@
     <br/>Deployment Patterns: n/a for Confluent Cloud, Artisanal and Ansible for self-managed
 ...
 ---
-  name: Google Cloud
+  blip: Google Cloud
   ring: adopt
   description: n/a
 ...
 ---
-  name: Microsoft Azure
+  blip: Microsoft Azure
   ring: assess
   description: n/a
 ...
 ---
-  name: BigQuery
+  blip: BigQuery
   ring: adopt
-  description: |
-    Data lake and Analytics platform
+  description: Data lake and Analytics platform
 ...
 ---
-  name: Firebase
+  blip: Firebase
   ring: hold
-  description: |
-    Due to the maturity of our patterns in terms of dynamically setting variables in a web service-hosted html file, we are not receommending Firebase or another CDN solution at this time.
+  description: Due to the maturity of our patterns in terms of dynamically setting variables in a web service-hosted html file, we are not receommending Firebase or another CDN solution at this time.
 ...

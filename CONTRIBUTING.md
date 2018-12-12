@@ -8,6 +8,7 @@ As part of the focus on _collaboration and adaptability around determining stand
 
 ## Change Process
 
+Before making any changes, please review the schema.md for data definitions
 At any point in time, you can:
  - Get ad hoc feedback
    - Ask a question in the #technology-radar slack channel
