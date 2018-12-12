@@ -1,44 +1,31 @@
 # How To Contibute
 
-As part of the focus on _collaboration and adaptability around determining standards_, the Technology Radar is open to contributions by all
- Changing the Standards should be an easy and welcoming process
+As part of the focus on _collaboration and adaptability around determining standards_, the Technology Radar is open to contributions by all.
  
 ## Release Cadence
- In order to balance the chaos and churn of constantly shifting goals, the Standards will be published on a recurring cadence of `once every month`
+
+Because our Radar is a tool to guide development and design decisions, it should be as up-to-date as it can be at any time that someone looks to it for guidance.  For this reason, there is no release cadence.  Each PR will go through an approval process independent of other PRs.
 
 ## Change Process
 
-Before making any changes, please review the schema.md for data definitions
+Before making any changes, please review the README.md for structure and formatting information.
+
 At any point in time, you can:
  - Get ad hoc feedback
    - Ask a question in the #technology-radar slack channel
  - Create a PR
+   - Reach out to peers for feedback and opinions before making change
    - Open a PR with changes you wish to see
    - Include a description of the changes, and reasoning to support the change
-   - Reach out to peers for feedback and opinions
-   - Include a radar steward to approve and merge your change
+   - MUST: Include a Principal Engineer as approver.  The Principal will guide the PR through the approval process.
    
-One week before the cadenced release date, the stewards will:
- - Accumulate any merged changes since the last release
- - Post a pending change list in #technology-radar
- - Discuss blip changes, commit any changes that are not challenged and, subsequently, removed
-
-On release day, a steward will:
- - Bump the version
- - Publish new version of the Technology Radar
- - Notify via #engineering of published changes
+Approval Process:
+ - The Principal designated as the approver will bring the PR to the #technology-radar channel 
+ - The PR is open for public discourse
+ - Before a decision can be made, all Engineering Managers and Principal Engineers must be made aware of the pending changes  
+ - If the plurality agrees with the change, the PR will be approved and merged into master branch
 
 ## Versioning Strategy
 
-The Technology Radar is versioned using canonical-date
+The Technology Radar is a living document and does not require version numbering.  The state of the Radar can, at any time, be considered the product of all changes from the beginning of time up to the date/time of the latest master merge.
 
-The format is `YYYY.MM.Release`, for example:
- - `2018.12.1`
- 
-This versioning strategy was chosen because ability to identify the epoch is valuable.
-
-Other strategies like SemVer were avoided, as the majority of changes will be semantically Major bumps, with rare use of Minor or Patch indicators
-
-Deprecation of historical versions is undecided, but will be reevaluated after 3~4 cycles as adoption rate becomes measurable
- 
-Any techniques, tools, platforms, languages, or frameworks in production use prior to initial adoption of the radar are considered to be in the "Sunset" ring
