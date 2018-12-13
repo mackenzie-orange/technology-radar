@@ -47,4 +47,4 @@ Each object MUST contain values for the following keys:
  - blip: Common name of the blip
  - ring: Ring in which the blip currently resides
  - description: An explanation of how and where the blip may be used. 
-
+ - contact: \[OPTIONAL\] Primary contact for information about how/where the blip is being assessed or trialed
