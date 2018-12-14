@@ -20,23 +20,23 @@
         ,description: "The Apollo client purports to simplify the problem of binding UI components to data served by any GraphQL backend"
     },
     {
-        blip: "Vue.js"
-        ,ring: "hold"
-        ,description: "Vue as an alternative to React is not currently being considered"
-    },
-    {
         blip: "Angular"
         ,ring: "hold"
         ,description: "Angular as a frontend application platform is not currently being considered as an alternative to React + Redux"
     },
     {
-        blip: "Knockout.js"
-        ,ring: "sunset"
-        ,description: "In usage in The Greeks"
+        blip: "Vue.js"
+        ,ring: "hold"
+        ,description: "Vue as an alternative to React is not currently being considered"
     },
     {
         blip: "Forge Proxies"
         ,ring: "sunset"
         ,description: "Dynamically-generated JavaScript in general tends to be problematic in many subtle ways, including mocking, DI, etc"
+    },
+    {
+        blip: "Knockout.js"
+        ,ring: "sunset"
+        ,description: "In usage in The Greeks"
     }
 ]

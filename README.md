@@ -33,10 +33,10 @@ Current Categories:
 
 The rings of the radar represent the path toward adoption for a blip.  Each ring sets forward criteria defining characteristics indicative of membership within that ring.  
 
- - Hold: Wait for this to mature
- - Assess: Worth exploring
- - Trial: Strong recommendation; Being tested in a current project
  - Adopt: The current standard; "Paved road" exists or is being delivered
+ - Assess: Worth exploring
+ - Hold: Wait for this to mature
+ - Trial: Strong recommendation; Being tested in a current project
  - Sunset: Do not use; Migrate existing instances to replacement option
 
 ## Blip

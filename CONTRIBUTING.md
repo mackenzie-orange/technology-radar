@@ -1,7 +1,18 @@
 # How To Contibute
 
 As part of the focus on _collaboration and adaptability around determining standards_, the Technology Radar is open to contributions by all.
- 
+
+## Content Standards
+
+Ensure entries are grouped by ring in alphabetical order:
+- adopt
+- assess
+- hold
+- sunset
+- trial
+
+Ensure entries are further organized by blip in alphabetical order.
+
 ## Release Cadence
 
 Because our Radar is a tool to guide development and design decisions, it should be as up-to-date as it can be at any time that someone looks to it for guidance.  For this reason, there is no release cadence.  Each PR will go through an approval process independent of other PRs.
