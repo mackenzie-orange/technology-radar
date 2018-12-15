@@ -1,4 +1,4 @@
-# QuoteCenter Technology Radar <a href="https://slack.com/app_redirect?channel=technology-radar"><img src="https://img.shields.io/badge/slack-%23technology--radar-ff69b4.svg"></a>
+# QuoteCenter Technology Radar <a href="https://hdqc.slack.com/app_redirect?channel=technology-radar"><img src="https://img.shields.io/badge/slack-%23technology--radar-ff69b4.svg"></a>
 
 Technology Radar is a listing of technologies and methodologies adopted (or on their way to adoption) at QC.  Where they are on that path is represented by a set of concentric rings approaching and peaking with adoption, followed by a path that they take on their way out of adoption.
 
